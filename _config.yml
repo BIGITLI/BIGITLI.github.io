@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://BIGITLI.github.io/
+author: BIGITLI
+pygments: true
+paginate: 18
