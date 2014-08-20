@@ -1,14 +1,27 @@
+------
+layout: post
+title: VisualSVN-Server-2.7.7的安装
+description: 
+categories:
+---
 
-#### VisualSVN-Server-2.7.7的安装
-1. ![soft][1]
-2. ![next][2]
-3. ![next][3]
-4. ![next][4]
-5. ![see-picture][5]
-6. ![see-picture][6]
-7. ![see-picture][7]
-8. ![see-picture][8]
-9. ![see-picture][9]
+			1. ![soft][1]
+
+			2. ![next][2]
+
+			3. ![next][3]
+
+			4. ![next][4]
+
+			5. ![see-picture][5]
+
+			6. ![see-picture][6]
+
+			7. ![see-picture][7]
+
+			8. ![see-picture][8]
+
+			9. ![see-picture][9]
 
 
 

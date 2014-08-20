@@ -1,22 +1,45 @@
-### trello的使用
-1. ![seepicture][44]
-2. ![seepicture][45]
-3. ![seepicture][46]
-4. ![seepicture][47]
-5. ![seepicture][48]
-6. ![seepicture][49]
-7. ![seepicture][50]
-8. ![seepicture][51]
-9. ![seepicture][52]
-10. ![seepicture][53]
-11. ![seepicture][54]
-12. ![seepicture][55]
-13. ![seepicture][56]
-14. ![seepicture][57]
-15. ![seepicture][58]
-16. ![seepicture][59]
-17. ![seepicture][60]
-18. ![seepicture][61]
+---
+layout: post
+title: trello的使用
+description: 
+categories:
+---
+
+			1. ![seepicture][44]
+
+			2. ![seepicture][45]
+
+			3. ![seepicture][46]
+
+			4. ![seepicture][47]
+
+			5. ![seepicture][48]
+
+			6. ![seepicture][49]
+
+			7. ![seepicture][50]
+
+			8. ![seepicture][51]
+
+			9. ![seepicture][52]
+
+			10. ![seepicture][53]
+
+			11. ![seepicture][54]
+
+			12. ![seepicture][55]
+
+			13. ![seepicture][56]
+
+			14. ![seepicture][57]
+
+			15. ![seepicture][58]
+
+			16. ![seepicture][59]
+
+			17. ![seepicture][60]
+
+			18. ![seepicture][61]
 
 
 [44]: /image/20140819/44.png
