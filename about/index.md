@@ -4,9 +4,8 @@ layout: page
 comments: yes
 ---
   
-liyuanguo(BIGITLI), 毕业于xkd.      
-喜欢程序语言设计及大数据分析.      
-目前实习于DDLL公司.      
+liyuanguo(LiYuanGuo), 毕业于西南科技大学.           
+从事web开发      
 
-个人邮箱:BIGITLI@foxmail.com     
-github : [https://github.com/BIGITLI](https://github.com/BIGITLI)      
+个人邮箱:bigitli@foxmail.com     
+github : [https://github.com/LiYuanGuo](https://github.com/LiYuanGuo)      
