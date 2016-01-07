@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://BIGITLI.github.io/
-author: BIGITLI
+url: http://LiYuanGuo.github.io/
+author: LiYuanGuo
 pygments: true
 paginate: 18
