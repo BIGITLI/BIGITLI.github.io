@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
 url: http://liyuanguo.github.io/
-author: LiYuanGuo
+author: liyuanguo 
 pygments: true
 paginate: 18
