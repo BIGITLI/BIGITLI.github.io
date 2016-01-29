@@ -3,7 +3,7 @@ layout: post
 title: 在EL表达式中显示“yyyy-MM-dd”格式的日期
 description: 前台页面问题
 categories:
-- pageQuestion 
+- pageQuestions 
 tags:
 - dateFormatInEL
 ---
