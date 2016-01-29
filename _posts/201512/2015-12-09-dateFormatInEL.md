@@ -1,3 +1,13 @@
+---
+layout: post
+title: 前台页面问题
+description: 在EL表达式中显示“yyyy-MM-dd”格式的日期
+categories:
+- pageQuestion 
+tags:
+- dateFormatInEL
+---
+
 ##工作中遇到的问题以及解决方案##
 ###前台页面问题###
 ###在EL表达式中显示“yyyy-MM-dd”格式的日期  
